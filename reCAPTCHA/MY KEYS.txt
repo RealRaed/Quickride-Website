@@ -1,0 +1,12 @@
+Utilisez cette clé de site dans le code HTML de votre site destiné aux utilisateurs.
+
+
+6LenrksrAAAAAJO1esjoAoNwrpJCZohwgi8ylk-r
+
+
+
+Utilisez cette clé secrète pour la communication entre votre site et le service reCAPTCHA.
+
+
+
+6LenrksrAAAAAH2TvbkIX9UVCFKuBACf2F8Z_aQ5
